@@ -1,6 +1,6 @@
 package("easy2d")
     set_description("The easy2d package")
-    add_urls("https://gitee.com/ricocosoul_admin/easy2d.git")
+    add_urls("https://github.com/ChestnutYueyue/easy2d-mingw-xmake.git")
 
     on_install(function (package)
         local configs = {}

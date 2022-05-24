@@ -12,7 +12,7 @@ Easy2D 远程包管理
 
 ````Lua
 add_rules("mode.debug", "mode.release")
-add_repositories("easy2d https://gitee.com/ricocosoul_admin/easy2d-repo")
+add_repositories("easy2d https://github.com/ChestnutYueyue/easy2d-repo.git")
 add_requires("easy2d")
 
 target("demo")
